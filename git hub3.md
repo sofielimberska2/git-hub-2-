@@ -6,4 +6,6 @@
 ### kod
 ``` python
 print ("ahoj")
-#### obrazek pythonu ![OIP](https://github.com/user-attachments/assets/13d7e705-770e-4fd9-8fdb-dc4d8158f5fe)
+
+#### obrazek pythonu ![OIP](https://github.com/user-attachments/assets/f3ddfc35-3257-45ca-b424-bf5d662a6a83)
+
