@@ -1,3 +1,8 @@
+#obsah
+## dnesni den
+- [dnesni den]()
+- [obrayek pythonu](#obrazek)
+- [kod]() 
 # nadpis 1
 ## obrazek psa ![OIP](https://github.com/user-attachments/assets/1ac61da4-401c-4809-86f9-0c0315cb07b3)
 ## nadpis 2
